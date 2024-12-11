@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GPSLocation</string>
+    <string name="tracking_started">Tracking started</string>
+    <string name="data_logged">Data logged successfully</string>
+    <string name="permission_denied">Permission denied</string>
+</resources>
+
+

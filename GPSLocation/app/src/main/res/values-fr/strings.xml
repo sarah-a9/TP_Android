@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Journal GPS</string>
+    <string name="tracking_started">Suivi commencé</string>
+    <string name="data_logged">Données enregistrées avec succès</string>
+    <string name="permission_denied">Permission refusée</string>
+</resources>

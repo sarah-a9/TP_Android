@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تسجيل GPS</string>
+    <string name="tracking_started">بدأ التتبع</string>
+    <string name="data_logged">تم تسجيل البيانات بنجاح</string>
+    <string name="permission_denied">تم رفض الإذن</string>
+</resources>
